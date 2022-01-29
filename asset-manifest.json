@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.b0c8e31b.chunk.css",
-    "main.js": "./static/js/main.3c79b29e.chunk.js",
-    "main.js.map": "./static/js/main.3c79b29e.chunk.js.map",
+    "main.js": "./static/js/main.33ca3cc7.chunk.js",
+    "main.js.map": "./static/js/main.33ca3cc7.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.79507de4.js",
     "runtime-main.js.map": "./static/js/runtime-main.79507de4.js.map",
     "static/js/2.a59f0695.chunk.js": "./static/js/2.a59f0695.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/2.a59f0695.chunk.js.LICENSE.txt": "./static/js/2.a59f0695.chunk.js.LICENSE.txt",
     "static/media/AAVE.e.b747f0c6.png": "./static/media/AAVE.e.b747f0c6.png",
     "static/media/APEIN.d569384f.png": "./static/media/APEIN.d569384f.png",
-    "static/media/AVAX.1b6b3fb1.svg": "./static/media/AVAX.1b6b3fb1.svg",
+    "static/media/AVAX.ea07bfc0.svg": "./static/media/AVAX.ea07bfc0.svg",
     "static/media/Ape-X.27a99a93.png": "./static/media/Ape-X.27a99a93.png",
     "static/media/BIFI.87b64be4.png": "./static/media/BIFI.87b64be4.png",
     "static/media/BLIZZ.ab3dbbd0.png": "./static/media/BLIZZ.ab3dbbd0.png",
@@ -33,6 +33,8 @@
     "static/media/OLIVE.535e2a74.png": "./static/media/OLIVE.535e2a74.png",
     "static/media/PEFI.d20bf8df.png": "./static/media/PEFI.d20bf8df.png",
     "static/media/PNG.6a7ba961.png": "./static/media/PNG.6a7ba961.png",
+    "static/media/SAB-AVAX.24f7c19c.svg": "./static/media/SAB-AVAX.24f7c19c.svg",
+    "static/media/SAB-MIM.a9cf0222.svg": "./static/media/SAB-MIM.a9cf0222.svg",
     "static/media/SHERPA.4fa895bf.png": "./static/media/SHERPA.4fa895bf.png",
     "static/media/SHIBX.c2eb0fcb.png": "./static/media/SHIBX.c2eb0fcb.png",
     "static/media/SNOB.d32bfe23.png": "./static/media/SNOB.d32bfe23.png",
@@ -40,8 +42,6 @@
     "static/media/SUSHI.e.4b15c8ee.png": "./static/media/SUSHI.e.4b15c8ee.png",
     "static/media/SYN.eec9db06.png": "./static/media/SYN.eec9db06.png",
     "static/media/TEDDY.72430752.png": "./static/media/TEDDY.72430752.png",
-    "static/media/TIME-AVAX.9a0f707c.svg": "./static/media/TIME-AVAX.9a0f707c.svg",
-    "static/media/TIME-MIM.b188bcf0.svg": "./static/media/TIME-MIM.b188bcf0.svg",
     "static/media/TIME.313e8050.svg": "./static/media/TIME.313e8050.svg",
     "static/media/TSD.2430fa58.png": "./static/media/TSD.2430fa58.png",
     "static/media/USDT.e.006177e6.png": "./static/media/USDT.e.006177e6.png",
@@ -74,6 +74,6 @@
     "static/js/runtime-main.79507de4.js",
     "static/js/2.a59f0695.chunk.js",
     "static/css/main.b0c8e31b.chunk.css",
-    "static/js/main.3c79b29e.chunk.js"
+    "static/js/main.33ca3cc7.chunk.js"
   ]
 }
